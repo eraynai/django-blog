@@ -11,5 +11,5 @@ def posts(request):
     pass
 
 
-def single_post(request):
+def post_detail(request):
     pass
